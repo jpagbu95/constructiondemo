@@ -991,7 +991,7 @@ section {
 .pricing .recommended .btn-buy:hover {
   background: #ec5311;
   border-color: #ec5311;
-  transform: scale(1.0);
+  transform: scale(1.25);
 }
 
 .pricing .recommended-badge {
