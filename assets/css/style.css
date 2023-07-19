@@ -977,6 +977,7 @@ section {
 .pricing .box .btn-buy:hover {
   background: #ec5311;
   color: #fff;
+  transform: scale(1.25);
 }
 
 .pricing .recommended {
