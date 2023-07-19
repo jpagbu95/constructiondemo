@@ -984,12 +984,12 @@ section {
 }
 
 .pricing .recommended .btn-buy {
-  background: #ec5311;
+  background: #cf4910;
   color: #fff;
 }
 
 .pricing .recommended .btn-buy:hover {
-  background: #cf4910;
+  background: #ec5311;
   border-color: #cf4910;
 }
 
