@@ -989,8 +989,8 @@ section {
 }
 
 .pricing .recommended .btn-buy:hover {
-  background: #d91e42;
-  border-color: #d91e42;
+  background: #cf4910;
+  border-color: #cf4910;
 }
 
 .pricing .recommended-badge {
@@ -1293,7 +1293,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #d01d3f;
+  background: #cf4910;
 }
 
 @keyframes animate-loading {
